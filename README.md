@@ -1,6 +1,6 @@
 <h1>Sorting Visualizer</h1>
 <br>
-A Sorting Visualizer bootstrapped with HTML and Styled using CSS</a>.<br>
+A Sorting Visualizer bootstrapped with <b>HTML</b> and Styled using <b>CSS</b></a>.<br>
 You can choose size of array and speed of animations at which you want the sorting visualizer to work.<br>
 Sorting algorithms that are currently supported :<br>
 <ul><li>Merge Sort</li><li>Quick Sort</li><li>Bubble Sort</li><li>Selection Sort</li><li>Insertion Sort</li></ul>
