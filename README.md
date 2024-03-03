@@ -1,4 +1,4 @@
-<h1>Sorting Visualizer</h1>
+# Sorting Visualizer
 <br>
 A Sorting Visualizer bootstrapped with <b><u>HTML</b></u> and Styled using <b><u>CSS</b></u></a>.<br>
 You can choose size of array and speed of animations at which you want the sorting visualizer to work.<br>
