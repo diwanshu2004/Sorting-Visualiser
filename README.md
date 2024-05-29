@@ -10,4 +10,4 @@ Sorting algorithms that are currently supported :<br>
 <img src="https://github.com/diwanshu2004/Sorting-Visualiser/blob/main/Sorting%20Visualiser/img/img2.png">
 <h4> ➡ Final Sorted array :</h4>
 <img src="https://github.com/diwanshu2004/Sorting-Visualiser/blob/main/Sorting%20Visualiser/img/img3.png">
-<h1><B>DEVELOPED BY <u>DIWANSHU KUMAR</u></B></h1>
+
